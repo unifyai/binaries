@@ -1,6 +1,6 @@
 # Binaries
 
-This library contains all the binaries required for using ivy's transpiler with support across different versions of Python, OS and Architectures
+This library contains all the binaries required for using ivy's transpiler with support across various environments.
 
 
 #### Supported Environments
