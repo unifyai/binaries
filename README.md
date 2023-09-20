@@ -1,9 +1,9 @@
 # Binaries
 
-This library contains all the binaries required for using ivy's transpiler with support across various environments.
+This library contains all the binaries required for using ivy's transpiler with support across various configurations.
 
 
-#### Supported Environments
+#### Supported Configurations
 
 
 | Python version | OS    | Architecture | File Name Suffix                    |
